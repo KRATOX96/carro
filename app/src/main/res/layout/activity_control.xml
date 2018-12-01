@@ -88,17 +88,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@+id/btn_derecha" />
 
-    <android.support.v7.widget.SwitchCompat
-        android:id="@+id/switch_OnOff"
-        android:layout_width="281dp"
-        android:layout_height="61dp"
-        android:layout_marginEnd="28dp"
-        android:layout_marginBottom="24dp"
-        android:text="Conectar bluetooth"
-        android:textSize="24sp"
-        android:theme="@style/Color1SwitchStyle"
-        app:layout_constraintBottom_toTopOf="@+id/btn_acelerar"
-        app:layout_constraintEnd_toEndOf="parent" />
-
 
 </android.support.constraint.ConstraintLayout>
